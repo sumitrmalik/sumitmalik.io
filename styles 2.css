@@ -1,0 +1,35 @@
+body, html{ 
+	margin: 0px;
+	background: url(background.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'Poiret One', cursive;
+}
+
+header{
+	margin: 20px;
+	background-color: rgba(33,42,52,0.5);
+}
+img{
+	max-height: 8rem;
+}
+
+section{
+	margin: 0 20px;
+	height: 27rem;
+	background-color: rgba(82,94,106,0.5);
+}
+
+h1 {
+  font-size: 3rem;
+  color: yellow;
+}
+
+
+footer{
+	margin: 20px;
+	color: white;
+	background-color: rgba(33,42,52,0.75);
+}

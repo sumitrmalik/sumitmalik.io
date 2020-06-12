@@ -1,0 +1,71 @@
+html{ 
+	margin: 0px;
+	background: url(background.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+body{
+	font-family: 'Poiret One', cursive;
+}
+header{
+	height: 84px;
+	background-color: rgba(33,42,52,0.5);
+	margin: 5px;
+}
+img{
+	height: -webkit-fill-available;
+	-webkit-transition: all 300ms;
+	-o-transition: all 300ms;
+	transition: all 300ms;
+}
+img:hover{
+	-webkit-transform: scale(1.1);
+	    -ms-transform: scale(1.1);
+	        transform: scale(1.1);
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	font-size: 99%;
+	-webkit-filter: drop-shadow(5px 5px 5px #e4dc0c);
+	        filter: drop-shadow(5px 5px 5px #e4dc0c); 
+}
+.middle{
+	font-family: 'Architects Daughter', cursive;
+	margin: 5px;
+    padding: 10px;
+	background-color: rgba(82,94,106,0.5);
+	height: 456px;
+	color: white;
+	font-size: xx-large;
+}
+.contentBox {
+    margin: 0;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+h1{
+	padding: 0 0 0 80px;
+	margin: 0;
+
+}
+footer{
+	margin: 5px;
+	padding: 10px;
+	height: 20px;
+	color: white;
+	background-color: rgba(33,42,52,0.75);
+}
