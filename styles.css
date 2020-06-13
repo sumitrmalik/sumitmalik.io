@@ -6,7 +6,6 @@ html, body{
   	-o-background-size: cover;
 	background-size: cover;
 	font-family: 'Poiret One', cursive;
-	transition: all 0.3s linear;
 }
 header{
 	height: 84px;
@@ -44,7 +43,6 @@ a:hover{
 	background-color: rgba(82,94,106,0.5);
 	height: 456px;
 	color: white;
-	
 }
 h1{
 	font-size: 5rem;
