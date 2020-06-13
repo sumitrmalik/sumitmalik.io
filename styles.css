@@ -6,6 +6,7 @@ html, body{
   	-o-background-size: cover;
 	background-size: cover;
 	font-family: 'Poiret One', cursive;
+	transition: all 0.3s linear;
 }
 header{
 	height: 84px;
