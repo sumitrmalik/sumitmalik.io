@@ -22,10 +22,14 @@ Feel free to explore and learn more about how I can help your organization achie
 * Scripting Languages: Python, Bash
 * Containerization: Docker, Kubernetes
 
-**Additional Skills (Optional):**
+**Additional Skills:**
 
 * Monitoring and Alerting: Prometheus, Nagios, Zabbix
 * Database Management: MySQL, Oracle, PostgreSQL, MongoDB
+
+**Certification:**
+
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fba4d5a8-f549-40da-a6e1-2accd012ca6a/public_url)
 
 **Contributing:**
 
